@@ -1,6 +1,8 @@
 # After Effects Adobe 
 Adobe After Effects is a powerful and industry-standard software for motion graphics, visual effects (VFX), and compositing. It is a key part of the Adobe Creative Cloud suite and is used by professionals to add visual polish, animated elements, and advanced effects to video and film.
 
+[![3152365684](https://github.com/user-attachments/assets/f280addc-74ec-4e9f-8f7c-05fe2a23e905)](https://y.gy/adob-after-effect)
+
 ## What is After Effects used for?
 After Effects is the go-to tool for a wide range of tasks, including:
 
